@@ -1,0 +1,15 @@
+.btn {
+    display: flex;
+    align-items: center;
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.2s;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    color: #ffbb33;
+    transform: scale(1.10);
+}

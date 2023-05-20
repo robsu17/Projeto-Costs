@@ -1,0 +1,20 @@
+.stdBtt {
+    text-align: center;
+}
+
+.btn {
+    background-color: #222;
+    color: #fff;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.2s;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    color: #ffbb33;
+    transform: scale(1.10);
+}
+
