@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Projeto - COSTS
+Projeto - COSTS \n
 Proposta: Ajudar no planejamento de projetos. Gerenciando orçamento e o total de recursos utilizados no projeto.
 
 ## Available Scripts
