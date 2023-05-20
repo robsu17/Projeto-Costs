@@ -20,4 +20,4 @@ Bibliotecas usadas:
 ## Considerações
 Pode ser que este código tenha erro em alguma parte da lógica de exibição dos dados. Fica como desafio para quem quiser corrigir!
 
-###😎😎
+😎😎
