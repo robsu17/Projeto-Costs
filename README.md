@@ -14,5 +14,5 @@ Bibliotecas usadas:
 - react/icons
 
 ### Créditos
-Hora de codar - https://www.youtube.com/@MatheusBattisti
-Playlist do projeto - https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+- Hora de codar - https://www.youtube.com/@MatheusBattisti
+- Playlist do projeto - https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
