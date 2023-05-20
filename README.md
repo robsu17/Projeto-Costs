@@ -6,7 +6,7 @@
 No seu terminal coloque este código para iniciar a aplicação
 
 ### `npm run backend`
-No seu terminal coloque este código para iniciar o "back-end" onde será guardado os dados.
+No seu terminal coloque este código para iniciar o "banco de dados" onde será guardado os dados.
 
 Bibliotecas usadas: 
 - react-router-dom 
