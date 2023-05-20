@@ -1,8 +1,6 @@
 # Projeto - COSTS 
 
-## Available Scripts
-
-In the project directory, you can run:
+## Scripts
 
 ### `npm start`
 No seu terminal coloque este código para iniciar a aplicação
