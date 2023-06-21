@@ -19,7 +19,14 @@
         "name": "Desenvolvimento"
       },
       "cost": -123,
-      "services": [],
+      "services": [
+        {
+          "name": "123213",
+          "cost": "21312",
+          "description": "adwdwa",
+          "id": "5369dd78-fe44-4caa-91cb-ac313cf5eb93"
+        }
+      ],
       "id": 4
     }
   ],
